@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="mailto:spencermsu@icloud.com"><img src="https://img.shields.io/badge/Email-contact-800020?style=for-the-badge&logo=gmail&logoColor=white" alt="email" draggable="false"/></a>
-  <a href="https://t.me/spencermsu"><img src="https://img.shields.io/badge/Telegram-@yourhandle-800020?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" draggable="false"/></a>z
+  <a href="https://t.me/spencermsu"><img src="https://img.shields.io/badge/Telegram-@spencermsu-800020?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" draggable="false"/></a>
 </p>
 
 ---
