@@ -1,4 +1,4 @@
-# 👋 Привет, я oixvuc
+# 👋 Привет, я SpencerMSU
 
 💻 **Java | C++ | Python | HTML | CSS | JavaScript | PostgreSQL | MySQL | MongoDB**
 
