@@ -17,19 +17,19 @@
 ---
 
 ## 🧭 Оглавление
-- [Обo мне](#-обо-мне)
-- [Технологический радар](#-технологический-радар)
-- [Языки программирования](#-языки-программирования)
-- [Веб / Backend / Frontend](#-веб--backend--frontend)
-- [Data / ML / Наука о данных](#-data--ml--наука-о-данных)
-- [Гейм-дев и моддинг](#-гейм-дев-и-моддинг)
-- [Базы данных и кэш](#-базы-данных-и-кэш)
-- [DevOps / Cloud / CI](#-devops--cloud--ci)
-- [Тестирование / Качество / Безопасность](#-тестирование--качество--безопасность)
-- [Инструменты и ОС](#-инструменты-и-ос)
-- [Проекты](#-проекты)
-- [GitHub Статы](#-github-статы)
-- [Контакты](#-контакты)
+- 🎯 [Обо мне](#-обо-мне)
+- 🧿 [Технологический радар](#-технологический-радар)
+- 🧩 [Языки программирования](#-языки-программирования)
+- 🌐 [Веб / Backend / Frontend](#-веб--backend--frontend)
+- 📊 [Data / ML / Наука о данных](#-data--ml--наука-о-данных)
+- 🎮 [Гейм-дев и моддинг](#-гейм-дев-и-моддинг)
+- 🗄️ [Базы данных и кэш](#-базы-данных-и-кэш)
+- 🔧 [DevOps / Cloud / CI](#-devops--cloud--ci)
+- 🧪 [Тестирование / Качество / Безопасность](#-тестирование--качество--безопасность)
+- 🧰 [Инструменты и ОС](#-инструменты-и-ос)
+- 📂 [Проекты](#-проекты)
+- 📈 [GitHub Статы](#-github-статы)
+- 🤝 [Контакты](#-контакты)
 
 ---
 
@@ -49,26 +49,56 @@
 **Assess**: WASM, Godot 4, Ray/Modin, ClickHouse
 
 ---
+## 🧩 Языки программирования
 
-## 🧾 Языки программирования
+<!-- Основные -->
+<details open>
+<summary><b>🔺 Основные</b></summary>
+
 <p>
   <img src="https://img.shields.io/badge/Java-800020?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-800020?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-800020?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-800020?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-800020?style=for-the-badge&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Go-800020?style=for-the-badge&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Rust-800020?style=for-the-badge&logo=rust&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kotlin-800020?style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-800020?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Swift-800020?style=for-the-badge&logo=swift&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Lua-800020?style=for-the-badge&logo=lua&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bash-800020?style=for-the-badge&logo=gnubash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-800020?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GraphQL-800020?style=for-the-badge&logo=graphql&logoColor=white"/>
+</p>
+</details>
+
+<!-- Веб -->
+<details>
+<summary><b>🌐 Веб</b></summary>
+
+<p>
   <img src="https://img.shields.io/badge/HTML5-800020?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-800020?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-800020?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GraphQL-800020?style=for-the-badge&logo=graphql&logoColor=white"/>
 </p>
+</details>
+
+<!-- Системные / низкоуровневые -->
+<details>
+<summary><b>🧱 Системные / Низкоуровневые</b></summary>
+
+<p>
+  <img src="https://img.shields.io/badge/Rust-800020?style=for-the-badge&logo=rust&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Go-800020?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-800020?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-800020?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swift-800020?style=for-the-badge&logo=swift&logoColor=white"/>
+</p>
+</details>
+
+<!-- Скриптовые / автоматизация / оболочка -->
+<details>
+<summary><b>⚙️ Скриптовые / Автоматизация</b></summary>
+
+<p>
+  <img src="https://img.shields.io/badge/Bash-800020?style=for-the-badge&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Lua-800020?style=for-the-badge&logo=lua&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Markdown-800020?style=for-the-badge&logo=markdown&logoColor=white"/>
+</p>
+</details>
 
 ---
 
