@@ -311,9 +311,7 @@
 ---
 
 ## 🤝 Контакты
-- ✉️ Email: youremail@example.com  
-- 💬 Telegram: @yourhandle  
-- 🕹 Discord: yourname#1234  
-- 🌐 Портфолио/сайт: https://yourdomain.dev
+- ✉️ Email: spencermsu@icloud.com  
+- 🕹 Discord: .bat9evelone
 
 > Если тебе зашли мои проекты — ⭐ звезда на репо делает мой день!
